@@ -1,0 +1,14 @@
+F:\Visual Studio Projects\Hello World Assignment\Hello World Assignment\bin\Debug\net8.0\Hello World Assignment.exe
+F:\Visual Studio Projects\Hello World Assignment\Hello World Assignment\bin\Debug\net8.0\Hello World Assignment.deps.json
+F:\Visual Studio Projects\Hello World Assignment\Hello World Assignment\bin\Debug\net8.0\Hello World Assignment.runtimeconfig.json
+F:\Visual Studio Projects\Hello World Assignment\Hello World Assignment\bin\Debug\net8.0\Hello World Assignment.dll
+F:\Visual Studio Projects\Hello World Assignment\Hello World Assignment\bin\Debug\net8.0\Hello World Assignment.pdb
+F:\Visual Studio Projects\Hello World Assignment\Hello World Assignment\obj\Debug\net8.0\Hello World Assignment.GeneratedMSBuildEditorConfig.editorconfig
+F:\Visual Studio Projects\Hello World Assignment\Hello World Assignment\obj\Debug\net8.0\Hello World Assignment.AssemblyInfoInputs.cache
+F:\Visual Studio Projects\Hello World Assignment\Hello World Assignment\obj\Debug\net8.0\Hello World Assignment.AssemblyInfo.cs
+F:\Visual Studio Projects\Hello World Assignment\Hello World Assignment\obj\Debug\net8.0\Hello World Assignment.csproj.CoreCompileInputs.cache
+F:\Visual Studio Projects\Hello World Assignment\Hello World Assignment\obj\Debug\net8.0\Hello World Assignment.dll
+F:\Visual Studio Projects\Hello World Assignment\Hello World Assignment\obj\Debug\net8.0\refint\Hello World Assignment.dll
+F:\Visual Studio Projects\Hello World Assignment\Hello World Assignment\obj\Debug\net8.0\Hello World Assignment.pdb
+F:\Visual Studio Projects\Hello World Assignment\Hello World Assignment\obj\Debug\net8.0\Hello World Assignment.genruntimeconfig.cache
+F:\Visual Studio Projects\Hello World Assignment\Hello World Assignment\obj\Debug\net8.0\ref\Hello World Assignment.dll
